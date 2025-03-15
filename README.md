@@ -74,4 +74,5 @@ To run the analyzer on a source file
 - For keywords, operators, and so on: `( token_id , - )`
 - For identifiers and constants: `( token_id , lexeme )`
 
-## Results on Samplecode
+## Results on [Sample Code](sample_code)
+Please refer to [Results](results_manual.txt)

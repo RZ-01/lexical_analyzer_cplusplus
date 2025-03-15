@@ -1,4 +1,4 @@
-# Lexical Analyzer from prof.Yu
+# Lexical Analyzer From Prof.Yu
 
 ## Token Types
 
@@ -75,7 +75,7 @@ To run the analyzer on a source file
 - For identifiers and constants: `( token_id , lexeme )`
 
 ## Results on [Sample Code](sample_code)
-Please refer to [Results](results_manual.txt)
+Please refer to [Results_manual](results_manual.txt)
 
 ## Lex Version
 With same functionality, refer to [lex_cplusplus](https://github.com/RZ-01/lex_cplusplus/tree/master)
